@@ -1,2 +1,43 @@
-# Jobs-Board
-A jobs board web app built using Vue.js
+# Jobs Board Project
+
+This is my jobs board project I created using Vue.js.
+
+<img src="public/screen.png" />
+
+## Usage
+
+This project uses JSON-Server for a mock backend.
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run JSON Server
+
+The server will run on http://localhost:8000
+
+```bash
+npm run server
+```
+
+### Run Vite Frontend
+
+Vue will run on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
